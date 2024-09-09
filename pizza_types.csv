@@ -1,0 +1,245 @@
+Pizza_type_id,Name,Category,Description
+1,Blazing Onion & Paprika,Veg,Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.
+2,Blazing Onion & Paprika,Nonveg,Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.
+3,Fiery Sausage & Paprika,Veg,Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.
+4,Fiery Sausage & Paprika,Nonveg,Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.
+5,Peppy Paneer,Veg,"Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika"
+6,Peppy Paneer,Nonveg,"Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika"
+7,Veg Extravaganza,Veg,"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese"
+8,Veg Extravaganza,Nonveg,"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese"
+9,Veggie Paradise,Veg,"The awesome foursome! Golden corn, black olives, capsicum, red paprika"
+10,Veggie Paradise,Nonveg,"The awesome foursome! Golden corn, black olives, capsicum, red paprika"
+11,Cheese n Corn,Veg,A delectable combination of sweet & juicy golden corn
+12,Cheese n Corn,Nonveg,A delectable combination of sweet & juicy golden corn
+13,Pepper Barbecue Chicken,Veg,Pepper barbecue chicken for that extra zing
+14,Pepper Barbecue Chicken,Nonveg,Pepper barbecue chicken for that extra zing
+15,Chicken Sausage,Veg,"American classic! Spicy, herbed chicken sausage on pizza"
+16,Chicken Sausage,Nonveg,"American classic! Spicy, herbed chicken sausage on pizza"
+17,Match Day Veg Combo,Veg,Regular Margherita +Regular  Farmhouse + Garlic Bread + Pepsi
+18,Match Day Veg Combo,Nonveg,Regular Margherita +Regular  Farmhouse + Garlic Bread + Pepsi
+19,Paneer Spice Supreme,Veg,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!"
+20,Paneer Spice Supreme,Nonveg,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!"
+21,Fiery Jalapeno & Paprika,Veg,Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.
+22,Fiery Jalapeno & Paprika,Nonveg,Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.
+23,Blazing Onion & Paprika,Veg,Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.
+24,Blazing Onion & Paprika,Nonveg,Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.
+25,Fiery Jalapeno & Paprika,Veg,Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.
+26,Fiery Jalapeno & Paprika,Nonveg,Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.
+27,Blazing Chicken & Paprika,Veg,Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce.
+28,Blazing Chicken & Paprika,Nonveg,Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce.
+29,Fiery Sausage & Paprika,Veg,Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.
+30,Fiery Sausage & Paprika,Nonveg,Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.
+31,Paneer Spice Supreme,Veg,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!"
+32,Paneer Spice Supreme,Nonveg,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!"
+33,Fiery Jalapeno & Paprika,Veg,Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.
+34,Fiery Jalapeno & Paprika,Nonveg,Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.
+35,Peppy Paneer,Veg,"Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika"
+36,Peppy Paneer,Nonveg,"Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika"
+37,Corn n Cheese Paratha Pizza,Veg,A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.
+38,Corn n Cheese Paratha Pizza,Nonveg,A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.
+39,Blazing Onion & Paprika,Veg,Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.
+40,Blazing Onion & Paprika,Nonveg,Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.
+41,Veg Extravaganza,Veg,"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese"
+42,Veg Extravaganza,Nonveg,"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese"
+43,Indi Tandoori Paneer,Veg,"It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo"
+44,Indi Tandoori Paneer,Nonveg,"It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo"
+45,Veggie Paradise,Veg,"The awesome foursome! Golden corn, black olives, capsicum, red paprika"
+46,Veggie Paradise,Nonveg,"The awesome foursome! Golden corn, black olives, capsicum, red paprika"
+47,Cheese n Corn,Veg,A delectable combination of sweet & juicy golden corn
+48,Cheese n Corn,Nonveg,A delectable combination of sweet & juicy golden corn
+49,Cheese Overload,Veg,"Cheese Overloaded Pizza with a medley of Mozzarella, Cheddar & Ghost Pepper flavoured Cheese."
+50,Cheese Overload,Nonveg,"Cheese Overloaded Pizza with a medley of Mozzarella, Cheddar & Ghost Pepper flavoured Cheese."
+51,Mexican Green Wave,Veg,"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno"
+52,Mexican Green Wave,Nonveg,"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno"
+53,Double Cheese Margherita,Veg,A classic delight loaded with extra 100% real mozzarella cheese
+54,Double Cheese Margherita,Nonveg,A classic delight loaded with extra 100% real mozzarella cheese
+55,Fresh Veggie,Veg,"Delectable combination of onion & capsicum, a veggie lovers pick"
+56,Fresh Veggie,Nonveg,"Delectable combination of onion & capsicum, a veggie lovers pick"
+57,Achari Do Pyaza,Veg,Tangy & spicy achari flavours on a super cheesy onion pizza- as desi as it gets!
+58,Achari Do Pyaza,Nonveg,Tangy & spicy achari flavours on a super cheesy onion pizza- as desi as it gets!
+59,Pepper Barbecue Chicken,Veg,Pepper barbecue chicken for that extra zing
+60,Pepper Barbecue Chicken,Nonveg,Pepper barbecue chicken for that extra zing
+61,Chicken Dominator,Veg,"Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers"
+62,Chicken Dominator,Nonveg,"Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers"
+63,Fiery Sausage & Paprika,Veg,Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.
+64,Fiery Sausage & Paprika,Nonveg,Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base.
+65,Blazing Chicken & Paprika,Veg,Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce.
+66,Blazing Chicken & Paprika,Nonveg,Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce.
+67,The 5 Chicken Feast Pizza,Veg,"Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage and flavorful Chicken Keema"
+68,The 5 Chicken Feast Pizza,Nonveg,"Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage and flavorful Chicken Keema"
+69,Chicken Keema Paratha Pizza,Veg,Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!
+70,Chicken Keema Paratha Pizza,Nonveg,Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!
+71,Non Veg Supreme,Veg,"Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers"
+72,Non Veg Supreme,Nonveg,"Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers"
+73,Chicken Sausage,Veg,"American classic! Spicy, herbed chicken sausage on pizza"
+74,Chicken Sausage,Nonveg,"American classic! Spicy, herbed chicken sausage on pizza"
+75,Spiced Double Chicken,Veg,Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers.
+76,Spiced Double Chicken,Nonveg,Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers.
+77,Chicken Golden Delight,Veg,"Double pepper barbecue chicken, golden corn and extra cheese, true delight"
+78,Chicken Golden Delight,Nonveg,"Double pepper barbecue chicken, golden corn and extra cheese, true delight"
+79,Indi Chicken Tikka,Veg,"The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo"
+80,Indi Chicken Tikka,Nonveg,"The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo"
+81,Chicken Pepperoni,Veg,"A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese"
+82,Chicken Pepperoni,Nonveg,"A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese"
+83,Chicken Fiesta,Veg,"Grilled chicken rashers, peri-peri chicken, onion & capsicum, a complete fiesta"
+84,Chicken Fiesta,Nonveg,"Grilled chicken rashers, peri-peri chicken, onion & capsicum, a complete fiesta"
+85,Pepsi 475ml,Veg,Sparkling and Refreshing Beverage
+86,Pepsi 475ml,Nonveg,Sparkling and Refreshing Beverage
+87,Pepsi Black Can 300ml,Veg,Maximum Taste Zero Calories
+88,Pepsi Black Can 300ml,Nonveg,Maximum Taste Zero Calories
+89,7Up 475ml,Veg,Refreshing clear drink with a natural lemon flavor
+90,7Up 475ml,Nonveg,Refreshing clear drink with a natural lemon flavor
+91,Mirinda 475ml,Veg,Delicious Orange Flavoured beverage
+92,Mirinda 475ml,Nonveg,Delicious Orange Flavoured beverage
+93,Nagpur Orange,Veg,Enjoy Oranges from Nagpur with the goodness of Fiber
+94,Nagpur Orange,Nonveg,Enjoy Oranges from Nagpur with the goodness of Fiber
+95,Pepsi 295 ml,Veg,Sparkling & Refreshing Beverage
+96,Pepsi 295 ml,Nonveg,Sparkling & Refreshing Beverage
+97,B Natural Alphonsos from Ratnagiri (300 ml),Veg,Alphonsos only from Ratnagiri with the Goodness of Fiber
+98,B Natural Alphonsos from Ratnagiri (300 ml),Nonveg,Alphonsos only from Ratnagiri with the Goodness of Fiber
+99,B Natural Mixed Fruit from Himalayas (300 ml),Veg,Premium fruits from Himalayas with the Goodness of Fiber
+100,B Natural Mixed Fruit from Himalayas (300 ml),Nonveg,Premium fruits from Himalayas with the Goodness of Fiber
+101,Lipton Ice Tea ( 350 ml),Veg,"Refreshment Sahi, Gas Nahi"
+102,Lipton Ice Tea ( 350 ml),Nonveg,"Refreshment Sahi, Gas Nahi"
+103,Bailley One (500ml),Veg,Packaged Drinking Water
+104,Bailley One (500ml),Nonveg,Packaged Drinking Water
+105,Mountain Dew 475ml,Veg,Strong and Refreshing
+106,Mountain Dew 475ml,Nonveg,Strong and Refreshing
+107,Garlic Breadsticks + Cheesy Dip,Veg,Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip
+108,Garlic Breadsticks + Cheesy Dip,Nonveg,Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip
+109,Garlic Breadsticks + Pepsi,Veg,Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml)
+110,Garlic Breadsticks + Pepsi,Nonveg,Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml)
+111,Garlic Breadsticks,Veg,Baked to perfection. Your perfect pizza partner! Tastes best with dip
+112,Garlic Breadsticks,Nonveg,Baked to perfection. Your perfect pizza partner! Tastes best with dip
+113,Classic Stuffed Garlic Bread,Veg,"Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno"
+114,Classic Stuffed Garlic Bread,Nonveg,"Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno"
+115,Cheesy Dip,Veg,An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence
+116,Cheesy Dip,Nonveg,An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence
+117,Roasted Chicken Wings Classic Hot Sauce,Veg,"Crisp, Roasted Chicken Wings available in Classic Hot Sauce"
+118,Roasted Chicken Wings Classic Hot Sauce,Nonveg,"Crisp, Roasted Chicken Wings available in Classic Hot Sauce"
+119,Paneer Tikka Stuffed Garlic Bread,Veg,"Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top"
+120,Paneer Tikka Stuffed Garlic Bread,Nonveg,"Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top"
+121,Chicken Pepperoni Stuffed Garlic Bread,Veg,"Freshly Baked Garlic Bread stuffed with Delectable Chicken Pepperoni, Cheese and sprinkled with Basil Parsley"
+122,Chicken Pepperoni Stuffed Garlic Bread,Nonveg,"Freshly Baked Garlic Bread stuffed with Delectable Chicken Pepperoni, Cheese and sprinkled with Basil Parsley"
+123,Taco Mexicana Veg,Veg,Truly irresistible! Crispy taco with veg patty & creamy harissa sauce
+124,Taco Mexicana Veg,Nonveg,Truly irresistible! Crispy taco with veg patty & creamy harissa sauce
+125,Taco Mexicana Veg,Veg,Truly irresistible! Crispy taco with veg patty & creamy harissa sauce
+126,Taco Mexicana Veg,Nonveg,Truly irresistible! Crispy taco with veg patty & creamy harissa sauce
+127,Taco Mexicana Non Veg,Veg,Truly irresistible! Crispy taco with non-veg patty & creamy harissa sauce
+128,Taco Mexicana Non Veg,Nonveg,Truly irresistible! Crispy taco with non-veg patty & creamy harissa sauce
+129,Taco Mexicana-Veg (Single),Veg,Truly irresistible! Crispy taco with a delicious veg patty & creamy sauce
+130,Taco Mexicana-Veg (Single),Nonveg,Truly irresistible! Crispy taco with a delicious veg patty & creamy sauce
+131,Chicken Meatballs Peri-Peri Sauce,Veg,"Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri Sauce"
+132,Chicken Meatballs Peri-Peri Sauce,Nonveg,"Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri Sauce"
+133,Veg Parcel,Veg,Snacky bites! Pizza rolls with paneer & creamy harissa sauce
+134,Veg Parcel,Nonveg,Snacky bites! Pizza rolls with paneer & creamy harissa sauce
+135,Chicken Parcel,Veg,Snacky bites! Pizza rolls with chicken sausage & creamy harissa sauce
+136,Chicken Parcel,Nonveg,Snacky bites! Pizza rolls with chicken sausage & creamy harissa sauce
+137,Burger Pizza - Classic Non Veg,Veg,"Oven-baked buns with cheese, peri-peri chicken, tomato & jalapeno in creamy mayo"
+138,Burger Pizza - Classic Non Veg,Nonveg,"Oven-baked buns with cheese, peri-peri chicken, tomato & jalapeno in creamy mayo"
+139,Roasted Chicken Wings Peri-Peri,Veg,"Crisp, roasted chicken wings in classic hot sauce and peri-peri flavour"
+140,Roasted Chicken Wings Peri-Peri,Nonveg,"Crisp, roasted chicken wings in classic hot sauce and peri-peri flavour"
+141,Chicken Meatballs Peri-Peri Seasoning,Veg,"Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri seasoning"
+142,Chicken Meatballs Peri-Peri Seasoning,Nonveg,"Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri seasoning"
+143,Harissa Dip,Veg,A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.
+144,Harissa Dip,Nonveg,A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.
+145,Basil Pesto Dip,Veg,"Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!"
+146,Basil Pesto Dip,Nonveg,"Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!"
+147,Tomato Ketchup,Veg,Goodness of Tomato Ketchup in mini sachets
+148,Tomato Ketchup,Nonveg,Goodness of Tomato Ketchup in mini sachets
+149,Chicken Keema & Onion with Desi Makhani Sauce,Veg,Authentic Indian Flavor of Makhani Sauce loaded with meaty Chicken Keema and crunchy Onion.
+150,Chicken Keema & Onion with Desi Makhani Sauce,Nonveg,Authentic Indian Flavor of Makhani Sauce loaded with meaty Chicken Keema and crunchy Onion.
+151,"Paneer, Onion & Capsicum with Desi Makhani Sauce",Veg,"Authentic Indian Flavor of Makhani Sauce loaded with juicy Paneer, crisp Capsicum and crunchy Onion."
+152,"Paneer, Onion & Capsicum with Desi Makhani Sauce",Nonveg,"Authentic Indian Flavor of Makhani Sauce loaded with juicy Paneer, crisp Capsicum and crunchy Onion."
+153,Non Veg Loaded,Veg,"Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust"
+154,Non Veg Loaded,Nonveg,"Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust"
+155,Veg Loaded,Veg,"Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust"
+156,Veg Loaded,Nonveg,"Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust"
+157,Paneer & Capsicum with Videshi Hot Sauce,Veg,Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer and crisp Capsicum.
+158,Paneer & Capsicum with Videshi Hot Sauce,Nonveg,Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer and crisp Capsicum.
+159,Capsicum & Red Paprika with Videshi Hot Sauce,Veg,Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum and spicy Red Paprika.
+160,Capsicum & Red Paprika with Videshi Hot Sauce,Nonveg,Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum and spicy Red Paprika.
+161,Pepper Barbecue Chicken,Veg,Pepper barbecue chicken for that extra zing
+162,Pepper Barbecue Chicken,Nonveg,Pepper barbecue chicken for that extra zing
+163,Chicken Sausage,Veg,"American classic! Spicy, herbed chicken sausage on pizza"
+164,Chicken Sausage,Nonveg,"American classic! Spicy, herbed chicken sausage on pizza"
+165,Classic,Veg,A classic pizza topped with sprinkle of basil and parsley herbs
+166,Classic,Nonveg,A classic pizza topped with sprinkle of basil and parsley herbs
+167,Golden Corn,Veg,Sweet & juicy golden corn for that lipsmacking taste
+168,Golden Corn,Nonveg,Sweet & juicy golden corn for that lipsmacking taste
+169,Onion,Veg,Our classic Pizza Mania topped with crunchy Onions
+170,Onion,Nonveg,Our classic Pizza Mania topped with crunchy Onions
+171,Match Day Veg Combo,Veg,Regular Margherita +Regular  Farmhouse + Garlic Bread + Pepsi
+172,Match Day Veg Combo,Nonveg,Regular Margherita +Regular  Farmhouse + Garlic Bread + Pepsi
+173,Match Day Non Veg Combo,Veg,Regular Pepper BBQ Chicken + Regular Chicken Sausage + Garlic Bread + Pepsi
+174,Match Day Non Veg Combo,Nonveg,Regular Pepper BBQ Chicken + Regular Chicken Sausage + Garlic Bread + Pepsi
+175,Big Hitter Combo (Veg),Veg,Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi
+176,Big Hitter Combo (Veg),Nonveg,Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi
+177,Winning Partnership Combo (Non-Veg),Veg,Medium Non Veg Supreme + Medium Chicken Dominator + Garlic Bread + 2 Pepsi
+178,Winning Partnership Combo (Non-Veg),Nonveg,Medium Non Veg Supreme + Medium Chicken Dominator + Garlic Bread + 2 Pepsi
+179,Super Over Combo (Veg),Veg,Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Pepsi
+180,Super Over Combo (Veg),Nonveg,Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Pepsi
+181,Meal for 2: Farmhouse & Peppy Paneer,Veg,Regular Farmhouse + Regular Peppy Paneer + Garlic Bread + Pepsi
+182,Meal for 2: Farmhouse & Peppy Paneer,Nonveg,Regular Farmhouse + Regular Peppy Paneer + Garlic Bread + Pepsi
+183,Meal for 2: Margherita & Peppy Paneer,Veg,Regular Margherita + Regular Peppy Paneer + Garlic Bread + Pepsi
+184,Meal for 2: Margherita & Peppy Paneer,Nonveg,Regular Margherita + Regular Peppy Paneer + Garlic Bread + Pepsi
+185,Meal for 2: Farmhouse & Veg Extravaganza,Veg,Regular Farmhouse + Regular Veg Extravaganza + Garlic Bread + Pepsi
+186,Meal for 2: Farmhouse & Veg Extravaganza,Nonveg,Regular Farmhouse + Regular Veg Extravaganza + Garlic Bread + Pepsi
+187,Meal for 2: Veg Paradise & Farmhouse,Veg,Regular Veg Paradise + Regular Farmhouse + Garlic Bread + Pepsi
+188,Meal for 2: Veg Paradise & Farmhouse,Nonveg,Regular Veg Paradise + Regular Farmhouse + Garlic Bread + Pepsi
+189,Meal for 2: Pepper BBQ Chicken & Spiced Double Chicken,Veg,Regular Pepper BBQ Chicken + Regular Spiced Double Chicken + Garlic Bread + Pepsi
+190,Meal for 2: Pepper BBQ Chicken & Spiced Double Chicken,Nonveg,Regular Pepper BBQ Chicken + Regular Spiced Double Chicken + Garlic Bread + Pepsi
+191,Meal for 4: Margherita & Peppy Paneer,Veg,Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Pepsi
+192,Meal for 4: Margherita & Peppy Paneer,Nonveg,Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Pepsi
+193,Meal for 4: Veg Extravaganza & Indi Tandoori Paneer,Veg,Medium Veg Extravaganza + Medium Indi Tandoori Paneer + Garlic Bread + 2 Pepsi
+194,Meal for 4: Veg Extravaganza & Indi Tandoori Paneer,Nonveg,Medium Veg Extravaganza + Medium Indi Tandoori Paneer + Garlic Bread + 2 Pepsi
+195,Meal for 4: Veg Cheesy Pizza,Veg,Regular Fresh Veggie + Regular Peppy Paneer + Regular Corn n Cheese + Regular Farmhouse
+196,Meal for 4: Veg Cheesy Pizza,Nonveg,Regular Fresh Veggie + Regular Peppy Paneer + Regular Corn n Cheese + Regular Farmhouse
+197,Meal for 4: Veg Loaded Pizza,Veg,Regular Veg Extravaganza + Regular Veg Paradise Pizza + Regular Indi Tandoori Paneer + Regular Farmhouse
+198,Meal for 4: Veg Loaded Pizza,Nonveg,Regular Veg Extravaganza + Regular Veg Paradise Pizza + Regular Indi Tandoori Paneer + Regular Farmhouse
+199,Meal for 4: Non Veg Pizza Mania Value,Veg,2 PM Pepper Barbecue Chicken + PM Chicken Sausage + PM Non Veg Loaded
+200,Meal for 4: Non Veg Pizza Mania Value,Nonveg,2 PM Pepper Barbecue Chicken + PM Chicken Sausage + PM Non Veg Loaded
+201,Garlic Breadsticks + Cheesy Dip,Veg,Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip
+202,Garlic Breadsticks + Cheesy Dip,Nonveg,Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip
+203,Garlic Breadsticks + Pepsi,Veg,Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml)
+204,Garlic Breadsticks + Pepsi,Nonveg,Enjoy the all time favourite Garlic Breadsticks with Pepsi (475 ml)
+205,Veg Parcel + Pepsi,Veg,Get Veg Parcel + Pepsi (295ml)
+206,Veg Parcel + Pepsi,Nonveg,Get Veg Parcel + Pepsi (295ml)
+207,Work from Home  Veg Treat,Veg,Reg Cheese & Corn Pizza + Pepsi
+208,Work from Home  Veg Treat,Nonveg,Reg Cheese & Corn Pizza + Pepsi
+209,Work from Home Non Veg Treat,Veg,Reg Chicken Sausage Pizza + Pepsi
+210,Work from Home Non Veg Treat,Nonveg,Reg Chicken Sausage Pizza + Pepsi
+211,Family House Party – Veg Deluxe Combo,Veg,Large Veg Extravaganza Pizza + 2 Garlic Bread + 4 Choco lava cake + 2 Pepsi
+212,Family House Party – Veg Deluxe Combo,Nonveg,Large Veg Extravaganza Pizza + 2 Garlic Bread + 4 Choco lava cake + 2 Pepsi
+213,Pizza & Juice Partnership - Paneer Spl Combo  (Meal for 1),Veg,Reg Peppy Paneer + B Natural Mixed Fruit from Himalayas
+214,Pizza & Juice Partnership - Paneer Spl Combo  (Meal for 1),Nonveg,Reg Peppy Paneer + B Natural Mixed Fruit from Himalayas
+215,Ultimate Cheese Burst Deluxe Combo (Veg),Veg,Medium Farmhouse Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+216,Ultimate Cheese Burst Deluxe Combo (Veg),Nonveg,Medium Farmhouse Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+217,Ultimate Cheese Burst Deluxe Combo (N Veg),Veg,Medium Pepper BBQ Chicken Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+218,Ultimate Cheese Burst Deluxe Combo (N Veg),Nonveg,Medium Pepper BBQ Chicken Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+219,Ultimate Cheese Burst Premium Combo (Veg),Veg,Medium Veg Extravaganza Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+220,Ultimate Cheese Burst Premium Combo (Veg),Nonveg,Medium Veg Extravaganza Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+221,Ultimate Cheese Burst Premium Combo (N Veg),Veg,Medium Chicken Dominator Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+222,Ultimate Cheese Burst Premium Combo (N Veg),Nonveg,Medium Chicken Dominator Cheese Burst Pizza + Choco Lava Cake + Garlic Bread
+223,Movie Marathons Specials (Veg),Veg,Reg Fresh Veggie Pizza + Garlic Bread + Pepsi
+224,Movie Marathons Specials (Veg),Nonveg,Reg Fresh Veggie Pizza + Garlic Bread + Pepsi
+225,Movie Marathons Specials (N. Veg),Veg,Reg Pepper BBQ Chicken Pizza + Garlic Bread + Pepsi
+226,Movie Marathons Specials (N. Veg),Nonveg,Reg Pepper BBQ Chicken Pizza + Garlic Bread + Pepsi
+227,Pizza & Juice Partnership - Kids Combo (Meal for 1),Veg,Reg Double Cheese Margherita + B Natural Alphonsos from Ratnagiri
+228,Pizza & Juice Partnership - Kids Combo (Meal for 1),Nonveg,Reg Double Cheese Margherita + B Natural Alphonsos from Ratnagiri
+229,Red Velvet Lava Cake,Veg,A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!
+230,Red Velvet Lava Cake,Nonveg,A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!
+231,Choco Lava Cake,Veg,"Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake"
+232,Choco Lava Cake,Nonveg,"Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake"
+233,Butterscotch Mousse Cake,Veg,Sweet temptation! Butterscotch flavored mousse
+234,Butterscotch Mousse Cake,Nonveg,Sweet temptation! Butterscotch flavored mousse
+235,Work from Home  Veg Treat,Veg,Reg Cheese & Corn Pizza + Pepsi
+236,Work from Home  Veg Treat,Nonveg,Reg Cheese & Corn Pizza + Pepsi
+237,Work from Home Non Veg Treat,Veg,Reg Chicken Sausage Pizza + Pepsi
+238,Work from Home Non Veg Treat,Nonveg,Reg Chicken Sausage Pizza + Pepsi
+239,Pizza & Juice Partnership - Paneer Spl Combo  (Meal for 1),Veg,Reg Peppy Paneer + B Natural Mixed Fruit from Himalayas
+240,Pizza & Juice Partnership - Paneer Spl Combo  (Meal for 1),Nonveg,Reg Peppy Paneer + B Natural Mixed Fruit from Himalayas
+241,Family House Party – Veg Deluxe Combo,Veg,Large Veg Extravaganza Pizza + 2 Garlic Bread + 4 Choco lava cake + 2 Pepsi
+242,Family House Party – Veg Deluxe Combo,Nonveg,Large Veg Extravaganza Pizza + 2 Garlic Bread + 4 Choco lava cake + 2 Pepsi
+243,Paneer Spice Supreme,Veg,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!"
+244,Paneer Spice Supreme,Nonveg,"Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!"
